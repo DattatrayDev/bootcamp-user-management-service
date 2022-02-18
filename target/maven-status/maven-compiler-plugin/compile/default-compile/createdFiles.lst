@@ -1,0 +1,5 @@
+com/zemoso/bookreadapp/usermanagementservice/service/BookreadService.class
+com/zemoso/bookreadapp/usermanagementservice/controller/BookreadController.class
+com/zemoso/bookreadapp/usermanagementservice/model/BookreadEntity.class
+com/zemoso/bookreadapp/usermanagementservice/service/impl/BookreadServiceImpl.class
+com/zemoso/bookreadapp/usermanagementservice/UserManagementService.class
