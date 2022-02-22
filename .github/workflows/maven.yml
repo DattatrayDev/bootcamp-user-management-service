@@ -28,7 +28,7 @@ jobs:
     - name: Build and push Docker Image
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
-       image: dattatrayd/git-hub-action-user-management
+       image: dattatrayd/git-hub-action-user-management-service
        tags: latest
        registry: docker.io
        dockerfile: Dockerfile
