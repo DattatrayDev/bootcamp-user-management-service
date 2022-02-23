@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Build') {
+        stage('Build Application') {
             steps {
                       sh 'sudo docker build -t dattatrayd/user-management-jenkins:latest .'
             }
